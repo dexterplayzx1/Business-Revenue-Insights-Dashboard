@@ -171,7 +171,7 @@ Time-based promotions during peak hours may further enhance sales performance.
 
 ## Author
 
-Adithya [Full Name]  
+Adithya BV  
 B.Sc (Hons) Data Science & Analytics  
 M S Ramaiah University of Applied Sciences  
 
