@@ -149,7 +149,7 @@ Time-based promotions during peak hours may further enhance sales performance.
 
 ## Dashboard Preview
 
-Screenshots/Dashboard.png
+![Retail Sales Dashboard](Screenshots/Dashboard.png)
 
 
 ---
