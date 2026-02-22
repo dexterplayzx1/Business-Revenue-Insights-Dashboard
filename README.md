@@ -164,7 +164,6 @@ Time-based promotions during peak hours may further enhance sales performance.
 
 - Implementation of time-series sales forecasting  
 - Customer segmentation using RFM analysis  
-- Deployment on cloud-based BI platforms  
 - Real-time data integration  
 
 ---
