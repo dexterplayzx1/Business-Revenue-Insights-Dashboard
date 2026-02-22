@@ -149,7 +149,8 @@ Time-based promotions during peak hours may further enhance sales performance.
 
 ## Dashboard Preview
 
-(Insert Power BI dashboard screenshot here)
+<img width="1651" height="923" alt="image" src="https://github.com/user-attachments/assets/c4c4dd7a-4359-44e0-b673-82f78dd9c0ad" />
+
 
 ---
 
